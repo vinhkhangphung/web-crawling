@@ -1,0 +1,3079 @@
+{
+    "_type": "jobs",
+    "aggregations": {
+        "categories": [],
+        "status": [
+            {
+                "key": 3,
+                "doc_count": 662
+            }
+        ]
+    },
+    "data": [
+        {
+            "id": 2033202,
+            "title": "Data Engineer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Mirae Asset Finance Company Vietnam is a member of Mirae Asset Financial Group, a global financial group from Korea, with 20 years of experience in finance, securities, investment, asset management etc., and is present in 16 countries with 200 offices and branches worldwide.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Being present in Vietnam in 2006 and officially operating in 2011, the Company has been built with the vision of always pursuing an optimal investment management strategy in order to support customers with achieving their long-term goals. &nbsp;In addition, Mirae Asset Finance Company Vietnam has made continuous efforts to improve its consumer financial products with a purpose of creating favorable conditions for the customers to effectively, legally and safely access the capital.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Attractive packages with 13th salary year-end bonus and a week trip to Korea in order to recognize all your good performance and effort at MAFC"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "15 days annual leave"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Annual health check, company events"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Annual healthcare insurance package from senior level and above"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Young and proactive environment; no barriers, no limitation for new idea"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Flexible internal career opportunity"
+                }
+            ],
+            "owned_id": 84508,
+            "company": {
+                "id": 84508,
+                "display_name": "Mirae Asset Finance Company (Vietnam)",
+                "image_logo": "https://assets.topdev.vn/images/2024/02/05/TopDev-dABBxxi9wRepG2Iz-1707125546.png",
+                "slug": "mirae-asset-finance-company-vietnam",
+                "detail_url": "https://topdev.vn/companies/mirae-asset-finance-company-vietnam-84508",
+                "tagline": "Professional - Friendly - Effective",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "91 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 137471,
+                            "ward": {
+                                "id": "26740",
+                                "value": "Phường Bến Nghé"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "91 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "91 Pasteur"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2022/05/24/TopDev-TopDev-gallery2q4kTzTcsSutxcvup5WuTU66VuOnTWAp-1641465305-1653383887.jpeg",
+                "image_galleries": [
+                    {
+                        "id": 313553,
+                        "url": "https://assets.topdev.vn/images/2022/01/04/TopDev-galleryZ64AQjXWXQwaPmkC1oPEEoaUqT4ILwds-1641267268.jpeg",
+                        "path": "/images/2022/01/04/TopDev-galleryZ64AQjXWXQwaPmkC1oPEEoaUqT4ILwds-1641267268.jpeg",
+                        "name": "gallery_Z64AQjXWXQwaPmkC1oPEEoaUqT4ILwds.jpeg",
+                        "uploaded": {
+                            "date": "04-01-2022",
+                            "datetime": "2022-01-04 10:34:28",
+                            "since": "2 years ago",
+                            "timestamp": 1641267268
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 313554,
+                        "url": "https://assets.topdev.vn/images/2022/01/04/TopDev-gallerymUW8YKO3m4OXY0kWWHMDx51FHOUzokYj-1641267311.jpeg",
+                        "path": "/images/2022/01/04/TopDev-gallerymUW8YKO3m4OXY0kWWHMDx51FHOUzokYj-1641267311.jpeg",
+                        "name": "gallery_mUW8YKO3m4OXY0kWWHMDx51FHOUzokYj.jpeg",
+                        "uploaded": {
+                            "date": "04-01-2022",
+                            "datetime": "2022-01-04 10:35:11",
+                            "since": "2 years ago",
+                            "timestamp": 1641267311
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 313556,
+                        "url": "https://assets.topdev.vn/images/2022/01/04/TopDev-galleryX9DljK6csXGUYU2cbtdvsQ903xGJ7w9B-1641267358.jpeg",
+                        "path": "/images/2022/01/04/TopDev-galleryX9DljK6csXGUYU2cbtdvsQ903xGJ7w9B-1641267358.jpeg",
+                        "name": "gallery_X9DljK6csXGUYU2cbtdvsQ903xGJ7w9B.jpeg",
+                        "uploaded": {
+                            "date": "04-01-2022",
+                            "datetime": "2022-01-04 10:35:58",
+                            "since": "2 years ago",
+                            "timestamp": 1641267358
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 313558,
+                        "url": "https://assets.topdev.vn/images/2022/01/04/TopDev-galleryr4BDVoe8wcIEXA7HEy16QwL0TYhFHpJG-1641267733.jpeg",
+                        "path": "/images/2022/01/04/TopDev-galleryr4BDVoe8wcIEXA7HEy16QwL0TYhFHpJG-1641267733.jpeg",
+                        "name": "gallery_r4BDVoe8wcIEXA7HEy16QwL0TYhFHpJG.jpeg",
+                        "uploaded": {
+                            "date": "04-01-2022",
+                            "datetime": "2022-01-04 10:42:13",
+                            "since": "2 years ago",
+                            "timestamp": 1641267733
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 313865,
+                        "url": "https://assets.topdev.vn/images/2022/01/06/TopDev-gallery2q4kTzTcsSutxcvup5WuTU66VuOnTWAp-1641465305.jpeg",
+                        "path": "/images/2022/01/06/TopDev-gallery2q4kTzTcsSutxcvup5WuTU66VuOnTWAp-1641465305.jpeg",
+                        "name": "gallery_2q4kTzTcsSutxcvup5WuTU66VuOnTWAp.jpeg",
+                        "uploaded": {
+                            "date": "06-01-2022",
+                            "datetime": "2022-01-06 17:35:05",
+                            "since": "2 years ago",
+                            "timestamp": 1641465305
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 331263,
+                        "url": "https://assets.topdev.vn/images/2022/05/24/TopDev-TopDev-de52263fe455c9ce096428ad0a233cde-1641530133-1653383888.jpeg",
+                        "path": "/images/2022/05/24/TopDev-TopDev-de52263fe455c9ce096428ad0a233cde-1641530133-1653383888.jpeg",
+                        "name": "TopDev-de52263fe455c9ce096428ad0a233cde-1641530133.jpeg",
+                        "uploaded": {
+                            "date": "24-05-2022",
+                            "datetime": "2022-05-24 16:18:08",
+                            "since": "2 years ago",
+                            "timestamp": 1653383888
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "15 Annual Leaves",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "13th Salary and pro-Rate and performance bonus",
+                        "icon": "fa-tags"
+                    },
+                    {
+                        "value": "Annual healthcare insurance package from senior level and above",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "A week trip to Korea in order to recognize  all your good performance and effort",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Work-life balance 42,5-hr per week from Mon to Fri.",
+                        "icon": "fa-glass"
+                    }
+                ],
+                "skills_arr": [
+                    "NodeJS",
+                    "Golang",
+                    "ReactJS",
+                    "React Native",
+                    "VueJS",
+                    "Java Spring Boot",
+                    "Microsoft"
+                ],
+                "industries_arr": [
+                    "Product",
+                    "Fintech",
+                    "Finance"
+                ],
+                "industries_str": "Product, Fintech, Finance",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Python, Data Engineer, Data Warehouse, ETL, Oracle PL/SQL",
+            "skills_arr": [
+                "Python",
+                "Data Engineer",
+                "Data Warehouse",
+                "ETL",
+                "Oracle PL/SQL"
+            ],
+            "skills_ids": [
+                34,
+                1464,
+                5266,
+                6837,
+                7411
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle",
+            "job_levels_arr": [
+                "Middle"
+            ],
+            "job_levels_ids": [
+                8665
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "91 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 1, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 137471,
+                        "ward": {
+                            "id": "26740",
+                            "value": "Phường Bến Nghé"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "760",
+                            "value": "Quận 1"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "91 Pasteur, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "91 Pasteur"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/data-engineer-mirae-asset-finance-company-vietnam-2033202",
+            "job_url": "",
+            "slug": "data-engineer-mirae-asset-finance-company-vietnam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "06-05-2024",
+                "datetime": "00:00:00 06-05-2024",
+                "since": "1 month ago"
+            },
+            "refreshed": {
+                "date": "10-06-2024",
+                "datetime": "02:00:07 10-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Education level, certification:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Bachelor‘s degree/higher/equivalent from a well-known university in Information Technology, MIS, Economics,..."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Relevant Knowledge/ Expertise:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "At least 03 year of experience working in the building, maintaining, and developing the Data warehouse.",
+                        "At least 03 year of experience using ETL tool (ODI/ Data Stage,...) to build and monitor data pipelines, both batch and realtime.",
+                        "Strong experience in using and optimization SQL/PL SQL and Database (Oracle/SQL Server/ MySQL/ DB2,...)",
+                        "Knowledge in using BI tools (PowerBI/ Metabase/ Pentaho...).",
+                        "Experience with object-oriented/object function scripting languages: Python, Scala is a plus",
+                        "Working experience in related fields: Fintech, Banking, Insurance."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Key Skills: "
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Strong analytical, communication, and problem-solving skills.",
+                        "Experience in the analysis and design of information systems; data warehouses and dimensional data modeling."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Note: Priority given to male applicants."
+                    ],
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "id": 2033314,
+            "title": "Senior QC",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">WATA is actively looking for many QC Engineer candidates to join our dynamic development team. Joining us, you will have a chance to work with our proactive and talented people, and you will have a chance to work directly with our clients from North America, Singapore, Japan, Korea, and Australia. </span><br /><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The reasons to join our company:</span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Work with young and talented engineers with great teamwork.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Proud of producing software applications that millions of people are using every day.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">A long-term project with top clients in the world.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Very attractive salary and annual salary review.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Opportunity for working overseas.</span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-cutlery",
+                    "name": null,
+                    "value": "Free snack-drink"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary package with 13th monthly salary and a good long-term and performance bonus monthly and yearly"
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Support onsite fee with two way airline tickets if customer requires."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "5 working days per week (Monday-Friday, 9AM - 6PM), to some extent flexible working hours."
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Friendly, professional and open working environment."
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Premium Health Insurance package for you"
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Opportunities to improve English skills within an international team – English is an official language."
+                },
+                {
+                    "icon": "fa-adn",
+                    "name": null,
+                    "value": "Opportunities to gain hands-on experience in cutting-edge technologies"
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "You will become the key members of WATA as we WATA is growing faster and bigger now"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Guaranteed permanent employment and career development"
+                },
+                {
+                    "icon": "fa-bookmark",
+                    "name": null,
+                    "value": "Skills up plan with Tech talk, soft skill talk, English club, working process training."
+                },
+                {
+                    "icon": "fa-glass",
+                    "name": null,
+                    "value": "Company trip yearly"
+                }
+            ],
+            "owned_id": 91746,
+            "company": {
+                "id": 91746,
+                "display_name": "WATA Software",
+                "image_logo": "https://assets.topdev.vn/images/2024/05/22/TopDev-6JWHlPVP9TeZXPN8-1716363367.png",
+                "slug": "wata-corp",
+                "detail_url": "https://topdev.vn/companies/wata-corp-91746",
+                "tagline": "Keep The GOAL in Sight",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Phú Nhuận, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 121301,
+                            "ward": {
+                                "id": "27070",
+                                "value": "Phường 10"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "768",
+                                "value": "Quận Phú Nhuận"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/05/22/TopDev-SQQKAOoNFiBvQ28x-1716363368.jpg",
+                "image_galleries": [
+                    {
+                        "id": 201970,
+                        "url": "https://assets.topdev.vn/images/2020/11/20/WATA-Image-3-LwFnj.jpg",
+                        "path": "/images/2020/11/20/WATA-Image-3-LwFnj.jpg",
+                        "name": "WATA-Image-3.jpg",
+                        "uploaded": {
+                            "date": "20-11-2020",
+                            "datetime": "2020-11-20 15:04:07",
+                            "since": "3 years ago",
+                            "timestamp": 1605859447
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 201971,
+                        "url": "https://assets.topdev.vn/images/2020/11/20/WATA-Image-4-G6CdX.jpg",
+                        "path": "/images/2020/11/20/WATA-Image-4-G6CdX.jpg",
+                        "name": "WATA-Image-4.jpg",
+                        "uploaded": {
+                            "date": "20-11-2020",
+                            "datetime": "2020-11-20 15:04:07",
+                            "since": "3 years ago",
+                            "timestamp": 1605859447
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Attractive signing bonus.",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Free snack-drink",
+                        "icon": "fa-coffee"
+                    },
+                    {
+                        "value": "Competitive salary package with 13th monthly salary, a good long-term and performance bonus.",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Performance review twice a year.",
+                        "icon": "fa-opencart"
+                    },
+                    {
+                        "value": "Support onsite fee with two way airline tickets if customer requires.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "5 working days per week (Monday-Friday), to some extent flexible working hours.",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Friendly, professional and open working environment.",
+                        "icon": "fa-bullseye"
+                    },
+                    {
+                        "value": "Premium Health Insurance package for you.",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Opportunities to improve English skills within an international team – English is an official language.",
+                        "icon": "fa-language"
+                    },
+                    {
+                        "value": "Opportunities to gain hands-on experience in cutting-edge technologies.",
+                        "icon": "fa-code"
+                    },
+                    {
+                        "value": "You will become the key members of WATA as we WATA is growing faster and bigger now.",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Guaranteed permanent employment and career development.",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Outdoor activities with company support: team building, happy hour party monthly, birthday, company trip, women days, Mid-Autumn festival, sport clubs, etc.",
+                        "icon": "fa-soccer-ball-o"
+                    },
+                    {
+                        "value": "Skills up plan with Tech talk, soft skill talk, English club, working process training.",
+                        "icon": "fa-lightbulb-o"
+                    }
+                ],
+                "skills_arr": [
+                    "Magento",
+                    "Java",
+                    "Ruby on Rails",
+                    ".NET",
+                    "Yii",
+                    "Zend",
+                    "WordPress",
+                    "Laravel"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "QC, QA/QC, Manual",
+            "skills_arr": [
+                "QC",
+                "QA/QC",
+                "Manual"
+            ],
+            "skills_ids": [
+                77,
+                5064,
+                7314
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Phú Nhuận, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 121301,
+                        "ward": {
+                            "id": "27070",
+                            "value": "Phường 10"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "768",
+                            "value": "Quận Phú Nhuận"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/senior-qc-wata-software-2033314",
+            "job_url": "",
+            "slug": "senior-qc-wata-software",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "20000000",
+                "max_estimate": "25000000",
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "21-05-2024",
+                "datetime": "00:00:00 21-05-2024",
+                "since": "4 weeks ago"
+            },
+            "refreshed": {
+                "date": "10-06-2024",
+                "datetime": "02:00:07 10-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "5+ years of experience as a manual QC Engineer.",
+                        "Excellent understanding of QA/QC process.",
+                        "Experience and deep awareness in functional testing",
+                        "Experience in manual functional, compatibility, Integration, load and stress testing.",
+                        "Experience with testing iOS, Android and/or Hybrid mobile apps.",
+                        "Strong knowledge of client-server architecture.",
+                        "Experience and knowledge of methods and types of testing (manual testing, Smoke, regression testing, etc.);",
+                        "Experience in Agile software development, task management and tracking tools",
+                        "Good estimation skills.",
+                        "Knowledge of MS TFS, Jira.",
+                        "Strong experience in testing of web services/API (Postman).",
+                        "Understanding of CI/CD process principles.",
+                        "Minimum bachelor's degree.",
+                        "Strong troubleshooting and performance tuning skills.",
+                        "Be well self-organized.",
+                        "At least Intermediate level of spoken and written English.",
+                        "Good communication skills.",
+                        "Self-motivated: Motivating themselves to stay focused and on-task helps model that behavior for others on the team"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033315,
+            "title": "Senior .NET Developer",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Lương + thưởng Lễ Tết."
+                },
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "Đóng các loại bảo hiểm theo quy định Nhà nước."
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Du lịch trong và ngoài nước hàng năm."
+                },
+                {
+                    "icon": "fa-cogs",
+                    "name": null,
+                    "value": "Cam kết cơ chế tốt nhất."
+                }
+            ],
+            "owned_id": 94715,
+            "company": {
+                "id": 94715,
+                "display_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN THIÊN KHÔI",
+                "image_logo": "https://assets.topdev.vn/images/2024/05/21/TopDev-Logo-TKG-white_2024-WEB0-1716256229.png",
+                "slug": "cong-ty-co-phan-tap-doan-thien-khoi",
+                "detail_url": "https://topdev.vn/companies/cong-ty-co-phan-tap-doan-thien-khoi-94715",
+                "tagline": "Làm môi giới - tới Thiên Khôi",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Toà Mipec 229 Tây Sơn, Phường Ngã Tư Sở, Quận Đống Đa, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Đống Đa, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 201906,
+                            "ward": {
+                                "id": "00235",
+                                "value": "Phường Ngã Tư Sở"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "006",
+                                "value": "Quận Đống Đa"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Toà Mipec 229 Tây Sơn, Phường Ngã Tư Sở, Quận Đống Đa, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Toà Mipec 229 Tây Sơn"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/05/21/TopDev-thienkhoi-1716278751.png",
+                "image_galleries": [
+                    {
+                        "id": 598292,
+                        "url": "https://assets.topdev.vn/images/2024/05/21/TopDev-2-scaled---Thien-Khoi-Nhan-Su-%281%29-1716278627.jpeg",
+                        "path": "/images/2024/05/21/TopDev-2-scaled---Thien-Khoi-Nhan-Su-(1)-1716278627.jpeg",
+                        "name": "2-scaled - Thiên Khôi Nhân Sự (1).jpeg",
+                        "uploaded": {
+                            "date": "21-05-2024",
+                            "datetime": "2024-05-21 15:03:48",
+                            "since": "4 weeks ago",
+                            "timestamp": 1716278628
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [],
+                "skills_arr": [
+                    "C#",
+                    ".NET",
+                    "HTML & CSS"
+                ],
+                "industries_arr": [
+                    "Bất động sản"
+                ],
+                "industries_str": "Bất động sản",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "JavaScript, C#, .NET",
+            "skills_arr": [
+                "JavaScript",
+                "C#",
+                ".NET"
+            ],
+            "skills_ids": [
+                22,
+                24,
+                73
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Toà Mipec 229 Tây Sơn, Phường Ngã Tư Sở, Quận Đống Đa, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Đống Đa, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 201906,
+                        "ward": {
+                            "id": "00235",
+                            "value": "Phường Ngã Tư Sở"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "006",
+                            "value": "Quận Đống Đa"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Toà Mipec 229 Tây Sơn, Phường Ngã Tư Sở, Quận Đống Đa, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Toà Mipec 229 Tây Sơn"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/senior-net-developer-cong-ty-co-phan-tap-doan-thien-khoi-2033315",
+            "job_url": "",
+            "slug": "senior-net-developer-cong-ty-co-phan-tap-doan-thien-khoi",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "21-05-2024",
+                "datetime": "00:00:00 21-05-2024",
+                "since": "4 weeks ago"
+            },
+            "refreshed": {
+                "date": "10-06-2024",
+                "datetime": "02:00:07 10-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Có từ 5 năm kinh nghiệm làm việc chuyên sâu với ngôn ngữ .NET, bao gồm cả C# và ASP.NET.",
+                        "Có kiến thức vững về các nguyên tắc OOP và thiết kế phần mềm.",
+                        "Hiểu biết sâu về cấu trúc MVC (Model-View-Controller) và các nguyên tắc lập trình theo mô hình này.",
+                        "Có kiến thức vững về HTML, CSS, và JavaScript để có khả năng làm việc hiệu quả với designer và frontend developer.",
+                        "Có kiến thức tốt về cơ sở dữ liệu quan hệ như MSSQL, Mysql.",
+                        "Có kinh nghiệm làm việc với Nodejs là một lợi thế lớn",
+                        "Kinh nghiệm làm việc với các dự án phần mềm lớn và phức tạp.",
+                        "Có hiểu biết vững về phát triển ứng dụng web và các cơ sở dữ liệu liên quan.",
+                        "Có kiến thức về các framework frontend như ReactJS, VueJS, Svelte… là một lợi thế.",
+                        "Kỹ năng tốt về viết mã sạch, dễ đọc và dễ bảo trì.",
+                        "Kỹ năng tốt về tương tác và giao tiếp",
+                        "Có khả năng học tập ngôn ngữ mới trong thời gian ngắn",
+                        "Kỹ năng làm việc độc lập cao và khả năng giải quyết vấn đề tốt."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033208,
+            "title": "Data Engineer Lead",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">As a Data Engineer Lead, you will play a pivotal role in Edtech team of VUS by working collaboratively with the engineering, product, and devops teams to ensure the effective validation, maintenance, and operation of our data platform.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">In addition, you will lead the charge in building and expanding our data analytics team.</span></p>",
+            "benefits": [],
+            "owned_id": 94023,
+            "company": {
+                "id": 94023,
+                "display_name": "VUS - Anh Văn Hội Việt Mỹ",
+                "image_logo": "https://assets.topdev.vn/images/2023/04/19/TopDev-Logo-VUS---Huynh-Tan-Giau%2C-Recruitment-Team-Leader%2C-HO%2C-HCM-giauhuynh%40vus-etsc.edu.vn-1681890223.jpg",
+                "slug": "vus-anh-van-hoi-viet-my",
+                "detail_url": "https://topdev.vn/companies/vus-anh-van-hoi-viet-my-94023",
+                "tagline": "Your English Your Future",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "189 Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 169796,
+                            "ward": {
+                                "id": "26749",
+                                "value": "Phường Phạm Ngũ Lão"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "189 Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "189 Nguyễn Thị Minh Khai"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/04/19/TopDev-01---Huynh-Tan-Giau%2C-Recruitment-Team-Leader%2C-HO%2C-HCM-giauhuynh%40vus-etsc.edu.vn-%281%29-1681890224.jpg",
+                "image_galleries": [
+                    {
+                        "id": 411792,
+                        "url": "https://assets.topdev.vn/images/2023/04/19/TopDev-01---Huynh-Tan-Giau%2C-Recruitment-Team-Leader%2C-HO%2C-HCM-giauhuynh%40vus-etsc.edu.vn-1681892653.jpg",
+                        "path": "/images/2023/04/19/TopDev-01---Huynh-Tan-Giau,-Recruitment-Team-Leader,-HO,-HCM-giauhuynh@vus-etsc.edu.vn-1681892653.jpg",
+                        "name": "01 - Huynh Tan Giau, Recruitment Team Leader, HO, HCM giauhuynh@vus-etsc.edu.vn.jpg",
+                        "uploaded": {
+                            "date": "19-04-2023",
+                            "datetime": "2023-04-19 15:24:14",
+                            "since": "1 year ago",
+                            "timestamp": 1681892654
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 455649,
+                        "url": "https://assets.topdev.vn/images/2023/08/04/TopDev-P3946TIlRJSaGROe-1691123675.jpg",
+                        "path": "/images/2023/08/04/TopDev-P3946TIlRJSaGROe-1691123675.jpg",
+                        "name": "O61fr7nENQzNWBM5mJVXpMUA7csfY7S0egHf1cGt.jpg",
+                        "uploaded": {
+                            "date": "04-08-2023",
+                            "datetime": "2023-08-04 11:34:36",
+                            "since": "10 months ago",
+                            "timestamp": 1691123676
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 455650,
+                        "url": "https://assets.topdev.vn/images/2023/08/04/TopDev-tRoBg1gUE7jbkiHy-1691123676.jpg",
+                        "path": "/images/2023/08/04/TopDev-tRoBg1gUE7jbkiHy-1691123676.jpg",
+                        "name": "PEByb8fAnmEZ81etBCoEKt8OJjMcq8DHLJsnF6VU.jpg",
+                        "uploaded": {
+                            "date": "04-08-2023",
+                            "datetime": "2023-08-04 11:34:36",
+                            "since": "10 months ago",
+                            "timestamp": 1691123676
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 455651,
+                        "url": "https://assets.topdev.vn/images/2023/08/04/TopDev-BvJgiUSeJxt5OLZB-1691123676.jpg",
+                        "path": "/images/2023/08/04/TopDev-BvJgiUSeJxt5OLZB-1691123676.jpg",
+                        "name": "c4ZlVFObtDMucbIXzrvDb1eswQDe6Pe4046dMt9S.jpg",
+                        "uploaded": {
+                            "date": "04-08-2023",
+                            "datetime": "2023-08-04 11:34:37",
+                            "since": "10 months ago",
+                            "timestamp": 1691123677
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Lunch allowance",
+                        "icon": "fa-pencil"
+                    },
+                    {
+                        "value": "Social insurance, PIT: VUS will cover - 100% NET salary",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "100% salary during probation period",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Annual leave: 12 days, plus 1 day with 3 years seniority",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Year-end bonus: according to personal performance and company performance",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "value": "English class scholarship at VUS 100%",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Annual health check",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "People engagement/ team building activities",
+                        "icon": "fa-connectdevelop"
+                    }
+                ],
+                "skills_arr": [
+                    "Python",
+                    ".NET",
+                    "Flutter"
+                ],
+                "industries_arr": [
+                    "Giáo dục",
+                    "Công nghệ thông tin"
+                ],
+                "industries_str": "Giáo dục, Công nghệ thông tin",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "AWS, Data Engineer, ETL",
+            "skills_arr": [
+                "AWS",
+                "Data Engineer",
+                "ETL"
+            ],
+            "skills_ids": [
+                347,
+                1464,
+                6837
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng Nhóm",
+            "job_levels_arr": [
+                "Trưởng Nhóm"
+            ],
+            "job_levels_ids": [
+                7276
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "189 Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 1, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 169796,
+                        "ward": {
+                            "id": "26749",
+                            "value": "Phường Phạm Ngũ Lão"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "760",
+                            "value": "Quận 1"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "189 Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "189 Nguyễn Thị Minh Khai"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/data-engineer-lead-vus-anh-van-hoi-viet-my-2033208",
+            "job_url": "",
+            "slug": "data-engineer-lead-vus-anh-van-hoi-viet-my",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "USD",
+                "value": null
+            },
+            "features": [
+                "SuperHotJob"
+            ],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "21-05-2024",
+                "datetime": "00:00:00 21-05-2024",
+                "since": "4 weeks ago"
+            },
+            "refreshed": {
+                "date": "10-06-2024",
+                "datetime": "02:00:07 10-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "TECHNICAL SKILLS REQUIREMENTS"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Minimum of 5 years of experience in data engineering and analytics roles.",
+                        "At least 2 years of recent experience in a leadership role.",
+                        "Proven experience in ETL processes involving large datasets.",
+                        "Familiarity with modern data platform tools, including BigQuery, Clickhouse, Airflow, Dataflow, DBT, Dataform, Kafka, ZetaSql, and more.",
+                        "Demonstrate proficiency in programming with Python/Golang.",
+                        "Experience with big streaming data platforms.",
+                        "Knowledge of data warehousing concepts, data modeling, and SQL.",
+                        "Experience with cloud data platforms like AWS or GCP.",
+                        "Outstanding time management skills and the ability to manage multiple deadlines simultaneously.",
+                        "Excellent communication and storytelling skills."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "PERSONALITY"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "You have strong interpersonal and problem-solving skills",
+                        "You are well-organized and attentive to details to ensure all technical documents and materials are well documented throughout the whole development process.",
+                        "You have a strong passion for researching to maintain up-to-date knowledge of technology solutions, industry trends and best practices for the team",
+                        "You are highly adaptable, inspirational and possess an entrepreneurial spirit"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033292,
+            "title": "Data Science Manager",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Job Purpose:</strong></span></p>\r\n<ul style=\"text-align: justify;\">\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The role in as part of the APAC Data &amp; Analytics Hub is critical in Heineken to operationalise our strategy of standardised and scalable data foundations across the region and enterprise. The role holder will work with colleagues across Heineken as part of a team that drive the Research &amp; Development activities of the Advanced Analytics organization by identifying and developing new Analytics opportunities for the enterprise within a specific Function or a group of Functions.</span></li>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">It is essential that the role holder delivers analytical solutions that are both theoretically sound but create immediate business value. This will be achieved by building strong relationships and collaboration with members of the broader HEINEKEN data organisation including Insight Enablement, Data Management and Global Analytics and various programs across the central, regional and Operating Company (OpCo) structures.</span></li>\r\n<li><span style=\"font-size: 15px; font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">In particular, he/she will partner with a growing group of data professionals such as Data Engineers, Machine Learning Engineers and Product Managers who play a crucial role in the development and delivery of Analytics products at scale.</span></li>\r\n</ul>",
+            "benefits": [],
+            "owned_id": 94170,
+            "company": {
+                "id": 94170,
+                "display_name": "HEINEKEN Vietnam",
+                "image_logo": "https://assets.topdev.vn/images/2023/07/25/TopDev-Logo-HNK---VN---Vy-Ho-Thuy-1690250766.png",
+                "slug": "heineken-vietnam",
+                "detail_url": "https://topdev.vn/companies/heineken-vietnam-94170",
+                "tagline": "Heineken Vietnam - Brewing a Better Vietnam",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 179974,
+                            "ward": {
+                                "id": "26740",
+                                "value": "Phường Bến Nghé"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/07/25/TopDev-05c381a08688e173549adeef32b13b21-1690250767.jpg",
+                "image_galleries": [
+                    {
+                        "id": 450651,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-bda33ce6b69bc235ecb766ae10e8c8fa-1690250248.jpg",
+                        "path": "/images/2023/07/25/TopDev-bda33ce6b69bc235ecb766ae10e8c8fa-1690250248.jpg",
+                        "name": "bda33ce6b69bc235ecb766ae10e8c8fa.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:28",
+                            "since": "10 months ago",
+                            "timestamp": 1690250248
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 450652,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-83300---Vy-Ho-Thuy-1690250248.jpg",
+                        "path": "/images/2023/07/25/TopDev-83300---Vy-Ho-Thuy-1690250248.jpg",
+                        "name": "83300 - Vy Hồ Thụy.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:29",
+                            "since": "10 months ago",
+                            "timestamp": 1690250249
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 450653,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-83299---Vy-Ho-Thuy-1690250249.jpg",
+                        "path": "/images/2023/07/25/TopDev-83299---Vy-Ho-Thuy-1690250249.jpg",
+                        "name": "83299 - Vy Hồ Thụy.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:30",
+                            "since": "10 months ago",
+                            "timestamp": 1690250250
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "A diverse and open working culture, where your true identity is celebrated.",
+                        "icon": "fa-angellist"
+                    },
+                    {
+                        "value": "Multiple career opportunities to rotate within Functions or cross-functions.",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Your wellbeing will be taken care by our Health & Safety Team since Day 1.",
+                        "icon": "fa-heart"
+                    },
+                    {
+                        "value": "Be a part of our sustainability journey in Brewing the Better Vietnam.",
+                        "icon": "fa-align-center"
+                    },
+                    {
+                        "value": "Performance appraisal twice a year to guarantee constructive feedback",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Performance bonus (estimated at least 3 months) and 13th month salary bonus",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Bao Viet Insurance for employees and family",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Annual leave: 18 days/year",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Flexible benefit voucher",
+                        "icon": "fa-bell"
+                    },
+                    {
+                        "value": "80% lunch in canteen",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "Annual team building, Town hall, YEP",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "value": "Gift for special holidays and sponsor traveling ticket in Tet Holiday",
+                        "icon": "fa-paper-plane"
+                    },
+                    {
+                        "value": "Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h00-17h00)",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "C#",
+                    ".NET",
+                    "Azure"
+                ],
+                "industries_arr": [
+                    "Kinh Doanh",
+                    "Sản xuất",
+                    "Manufacturing"
+                ],
+                "industries_str": "Kinh Doanh, Sản xuất, Manufacturing",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Python, Machine Learning, Data Science",
+            "skills_arr": [
+                "Python",
+                "Machine Learning",
+                "Data Science"
+            ],
+            "skills_ids": [
+                34,
+                317,
+                1295
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Trưởng phòng",
+            "job_levels_arr": [
+                "Trưởng phòng"
+            ],
+            "job_levels_ids": [
+                1620
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 1, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 179974,
+                        "ward": {
+                            "id": "26740",
+                            "value": "Phường Bến Nghé"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "760",
+                            "value": "Quận 1"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/data-science-manager-heineken-vietnam-2033292",
+            "job_url": "",
+            "slug": "data-science-manager-heineken-vietnam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 1,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [
+                "JobpageHighlight"
+            ],
+            "packages": [
+                "basic",
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "16-05-2024",
+                "datetime": "00:00:00 16-05-2024",
+                "since": "1 month ago"
+            },
+            "refreshed": {
+                "date": "10-06-2024",
+                "datetime": "02:00:07 10-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Education & Experience:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "MSc/PhD in Statistics, Mathematics, or a related field; equivalent work experience accepted.",
+                        "8+ years in a pure analytical/science role and 3+ years of management experience",
+                        "Past record of successful Data Science projects",
+                        "Excellent written and verbal communication skills",
+                        "Breadth and Depth in Data Science and Machine Learning",
+                        "Ability to build and maintain strong collaborative relationships with stakeholders across the business",
+                        "Demonstrated ability to effectively manage multiple simultaneous projects and deliverables",
+                        "Communicate effectively with various stakeholders, tailoring your message to your audience's level of technical understanding.",
+                        "Knowledge of industry trends and demonstrated commitment to stay up to date on new technologies",
+                        "Knowledge of Machine Learning, Statistics, and related fields.",
+                        "Fluent Python and thorough knowledge of pandas & scikit-learn.",
+                        "Excellent written and verbal English and local language."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Nice to have:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Experience with Azure development environment",
+                        "Experience working with a large development team (CI/CD)"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Working Condition:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Office-based role (with Hybrid Working) with standard working hours in Ho Chi Minh head office."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033310,
+            "title": "Senior Java Developer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">WATA Software is actively looking for many Senior Java Developers to join a dynamic development team. Joining us, you will have a chance to work with our proactive and talented people, and you will have a chance to work directly with our clients from North America, Singapore, Japan, Korea, and Australia.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The reasons to join our company:&nbsp;</span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Work with young and talented engineers with great teamwork.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Proud of producing software applications that millions of people are using every day.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">A long-term project with top clients in the world.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Very attractive salary and annual salary review.&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Opportunity for working overseas.&nbsp;</span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-cutlery",
+                    "name": null,
+                    "value": "Free snack-drink"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary package with 13th monthly salary and a good long-term and performance bonus monthly and yearly."
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Support onsite fee with two way airline tickets if customer requires."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "5 working days per week (Monday-Friday, 9AM - 6PM), to some extent flexible working hours."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Friendly, professional and open working environment."
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Premium Health Insurance package for you"
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Opportunities to improve English skills within an international team – English is an official language."
+                },
+                {
+                    "icon": "fa-adn",
+                    "name": null,
+                    "value": "Opportunities to gain hands-on experience in cutting-edge technologies"
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "You will become the key members of WATA as we WATA is growing faster and bigger now"
+                },
+                {
+                    "icon": "fa-child",
+                    "name": null,
+                    "value": "Guaranteed permanent employment and career development."
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Skills up plan with Tech talk, soft skill talk, English club, working process training."
+                },
+                {
+                    "icon": "fa-glass",
+                    "name": null,
+                    "value": "Company trip yearly"
+                }
+            ],
+            "owned_id": 91746,
+            "company": {
+                "id": 91746,
+                "display_name": "WATA Software",
+                "image_logo": "https://assets.topdev.vn/images/2024/05/22/TopDev-6JWHlPVP9TeZXPN8-1716363367.png",
+                "slug": "wata-corp",
+                "detail_url": "https://topdev.vn/companies/wata-corp-91746",
+                "tagline": "Keep The GOAL in Sight",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Phú Nhuận, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 121301,
+                            "ward": {
+                                "id": "27070",
+                                "value": "Phường 10"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "768",
+                                "value": "Quận Phú Nhuận"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/05/22/TopDev-SQQKAOoNFiBvQ28x-1716363368.jpg",
+                "image_galleries": [
+                    {
+                        "id": 201970,
+                        "url": "https://assets.topdev.vn/images/2020/11/20/WATA-Image-3-LwFnj.jpg",
+                        "path": "/images/2020/11/20/WATA-Image-3-LwFnj.jpg",
+                        "name": "WATA-Image-3.jpg",
+                        "uploaded": {
+                            "date": "20-11-2020",
+                            "datetime": "2020-11-20 15:04:07",
+                            "since": "3 years ago",
+                            "timestamp": 1605859447
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 201971,
+                        "url": "https://assets.topdev.vn/images/2020/11/20/WATA-Image-4-G6CdX.jpg",
+                        "path": "/images/2020/11/20/WATA-Image-4-G6CdX.jpg",
+                        "name": "WATA-Image-4.jpg",
+                        "uploaded": {
+                            "date": "20-11-2020",
+                            "datetime": "2020-11-20 15:04:07",
+                            "since": "3 years ago",
+                            "timestamp": 1605859447
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Attractive signing bonus.",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Free snack-drink",
+                        "icon": "fa-coffee"
+                    },
+                    {
+                        "value": "Competitive salary package with 13th monthly salary, a good long-term and performance bonus.",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Performance review twice a year.",
+                        "icon": "fa-opencart"
+                    },
+                    {
+                        "value": "Support onsite fee with two way airline tickets if customer requires.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "5 working days per week (Monday-Friday), to some extent flexible working hours.",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Friendly, professional and open working environment.",
+                        "icon": "fa-bullseye"
+                    },
+                    {
+                        "value": "Premium Health Insurance package for you.",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Opportunities to improve English skills within an international team – English is an official language.",
+                        "icon": "fa-language"
+                    },
+                    {
+                        "value": "Opportunities to gain hands-on experience in cutting-edge technologies.",
+                        "icon": "fa-code"
+                    },
+                    {
+                        "value": "You will become the key members of WATA as we WATA is growing faster and bigger now.",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Guaranteed permanent employment and career development.",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Outdoor activities with company support: team building, happy hour party monthly, birthday, company trip, women days, Mid-Autumn festival, sport clubs, etc.",
+                        "icon": "fa-soccer-ball-o"
+                    },
+                    {
+                        "value": "Skills up plan with Tech talk, soft skill talk, English club, working process training.",
+                        "icon": "fa-lightbulb-o"
+                    }
+                ],
+                "skills_arr": [
+                    "Magento",
+                    "Java",
+                    "Ruby on Rails",
+                    ".NET",
+                    "Yii",
+                    "Zend",
+                    "WordPress",
+                    "Laravel"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Spring, Spring Boot",
+            "skills_arr": [
+                "Java",
+                "Spring",
+                "Spring Boot"
+            ],
+            "skills_ids": [
+                21,
+                245,
+                4317
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Phú Nhuận, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 121301,
+                        "ward": {
+                            "id": "27070",
+                            "value": "Phường 10"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "768",
+                            "value": "Quận Phú Nhuận"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà 3 Bees, 281 Nguyễn Văn Trỗi"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/senior-java-developer-wata-software-2033310",
+            "job_url": "",
+            "slug": "senior-java-developer-wata-software",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "20000000",
+                "max_estimate": "25000000",
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "21-05-2024",
+                "datetime": "00:00:00 21-05-2024",
+                "since": "4 weeks ago"
+            },
+            "refreshed": {
+                "date": "10-06-2024",
+                "datetime": "02:00:07 10-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "4+ years of experience in Java Application Development.",
+                        "Spring frameworks (Spring Boot, Spring integration, Spring Security).",
+                        "Demonstrated knowledge of Java, Web Services (RESTful, SOAP) and MySQL/PostgreSQL.",
+                        "Exposure to administering & consuming AWS services or other cloud platforms.",
+                        "Knowledge of Restful APIs, API gateways, preferable Apigee.",
+                        "Experience with cryptography and security.",
+                        "Familiar with a complex, high-performance platform.",
+                        "You are flexible, a team player, someone with an eye for detail.",
+                        "Able to take ownership and lead a project.",
+                        "Proficient in creating performant database queries and table structures."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Bonus Points For:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Payments or Financial Services industry experience.",
+                        "Experience building microservices and cloud-based applications.",
+                        "Automation testing, mock frameworks, performance testing.",
+                        "Cloud fundamental knowledge using any cloud providers like AWS, GCP and Azur",
+                        "Self-motivated: Motivating themselves to stay focused and on-task helps model that behavior for others on the team"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033158,
+            "title": "FRONTEND ENGINEER - All Levels",
+            "content": "",
+            "benefits": [],
+            "owned_id": 50612,
+            "company": {
+                "id": 50612,
+                "display_name": "TopDev's Client",
+                "image_logo": "https://assets.topdev.vn/images/2024/03/01/TopDev-SE6qQ18EbAUjcfoD-1709278717.png",
+                "slug": "topdev-s-client",
+                "detail_url": "https://topdev.vn/companies/topdev-s-client-50612",
+                "tagline": "IT Jobs From TopDev's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "Quận 3, Hồ Chí Minh, Quận 3, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 292,
+                            "ward": {
+                                "id": "26953",
+                                "value": "Phường 21"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "765",
+                                "value": "Quận Bình Thạnh"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ"
+                        },
+                        {
+                            "id": 196483,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "770",
+                                "value": "Quận 3"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Quận 3, Hồ Chí Minh, Quận 3, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Quận 3, Hồ Chí Minh"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                "image_galleries": [
+                    {
+                        "id": 591764,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                        "path": "/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                        "name": "9jxlOHitlDm9vn8UbcqCbdidHWNLYVaUvDMwQsj2.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:35",
+                            "since": "1 month ago",
+                            "timestamp": 1715144255
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 591765,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-NCCfSgYJFZ3YIItL-1715144255.png",
+                        "path": "/images/2024/05/08/TopDev-NCCfSgYJFZ3YIItL-1715144255.png",
+                        "name": "ocHpcpviwHBP6Oj8R1B2UEDeigkHnZNiHMo40hlc.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:36",
+                            "since": "1 month ago",
+                            "timestamp": 1715144256
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 591766,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-hx8CVTbix1IpIF7h-1715144256.png",
+                        "path": "/images/2024/05/08/TopDev-hx8CVTbix1IpIF7h-1715144256.png",
+                        "name": "7FcbNvMrvpb6PEuoWIiPXXsKIJiWGg9XtWCoLvU2.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:36",
+                            "since": "1 month ago",
+                            "timestamp": 1715144256
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "name": "Bonus",
+                        "value": "Build solid foundation for IT career path through an accelerate 12-month development",
+                        "icon": "fa-graduation-cap"
+                    },
+                    {
+                        "name": "Library",
+                        "value": "Acquire strong technical and soft skills",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "name": "Healthcare Plan",
+                        "value": "Work in cutting edge technology projects",
+                        "icon": "fa-rss"
+                    },
+                    {
+                        "name": "Vouchers",
+                        "value": "Buddy with friendly colleagues and learn from senior experts",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "name": "Training",
+                        "value": "Develop a strong sense of business insight",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "name": "Awards",
+                        "value": "Development journey come along with growing benefits",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Receive attractive benefits (meal allowance, 13th month salary, performance bonus, healthcare insurance,...)",
+                        "icon": "fa-angellist"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "Web/ Mobile",
+                    "Mobile",
+                    "Product",
+                    "IT Staff"
+                ],
+                "industries_arr": [
+                    "Dịch vụ doanh nghiệp",
+                    "Nhân sự",
+                    "Triển Khai Phần Mềm"
+                ],
+                "industries_str": "Dịch vụ doanh nghiệp, Nhân sự, Triển Khai Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "CSS, JavaScript, Front-End, VueJS",
+            "skills_arr": [
+                "CSS",
+                "JavaScript",
+                "Front-End",
+                "VueJS"
+            ],
+            "skills_ids": [
+                3,
+                22,
+                209,
+                1297
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior",
+            "job_levels_arr": [
+                "Junior"
+            ],
+            "job_levels_ids": [
+                8664
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 292,
+                        "ward": {
+                            "id": "26953",
+                            "value": "Phường 21"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "765",
+                            "value": "Quận Bình Thạnh"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/frontend-engineer-all-levels-topdev-s-client-2033158",
+            "job_url": "",
+            "slug": "frontend-engineer-all-levels-topdev-s-client",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "0",
+                "max": "1***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "Up to 1*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "25-04-2024",
+                "datetime": "00:00:00 25-04-2024",
+                "since": "1 month ago"
+            },
+            "refreshed": {
+                "date": "09-06-2024",
+                "datetime": "02:00:07 09-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Good knowledge of VueJS.",
+                        "In depth knowledge of Javascript, CSS.",
+                        "BS/MS degree in Computer Science, Engineering, MIS or similar relevant field",
+                        "Experience in unit testing and Quasar Framework is a plus.",
+                        "Hands on experience with REST API as a consumer.",
+                        "Creative and efficient problem solver",
+                        "Ability to speak in both Vietnamese and English."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033159,
+            "title": "Mobile Developer (iOS/Android - All Levels)",
+            "content": "",
+            "benefits": [],
+            "owned_id": 50612,
+            "company": {
+                "id": 50612,
+                "display_name": "TopDev's Client",
+                "image_logo": "https://assets.topdev.vn/images/2024/03/01/TopDev-SE6qQ18EbAUjcfoD-1709278717.png",
+                "slug": "topdev-s-client",
+                "detail_url": "https://topdev.vn/companies/topdev-s-client-50612",
+                "tagline": "IT Jobs From TopDev's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "Quận 3, Hồ Chí Minh, Quận 3, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 292,
+                            "ward": {
+                                "id": "26953",
+                                "value": "Phường 21"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "765",
+                                "value": "Quận Bình Thạnh"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ"
+                        },
+                        {
+                            "id": 196483,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "770",
+                                "value": "Quận 3"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Quận 3, Hồ Chí Minh, Quận 3, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Quận 3, Hồ Chí Minh"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                "image_galleries": [
+                    {
+                        "id": 591764,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                        "path": "/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                        "name": "9jxlOHitlDm9vn8UbcqCbdidHWNLYVaUvDMwQsj2.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:35",
+                            "since": "1 month ago",
+                            "timestamp": 1715144255
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 591765,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-NCCfSgYJFZ3YIItL-1715144255.png",
+                        "path": "/images/2024/05/08/TopDev-NCCfSgYJFZ3YIItL-1715144255.png",
+                        "name": "ocHpcpviwHBP6Oj8R1B2UEDeigkHnZNiHMo40hlc.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:36",
+                            "since": "1 month ago",
+                            "timestamp": 1715144256
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 591766,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-hx8CVTbix1IpIF7h-1715144256.png",
+                        "path": "/images/2024/05/08/TopDev-hx8CVTbix1IpIF7h-1715144256.png",
+                        "name": "7FcbNvMrvpb6PEuoWIiPXXsKIJiWGg9XtWCoLvU2.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:36",
+                            "since": "1 month ago",
+                            "timestamp": 1715144256
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "name": "Bonus",
+                        "value": "Build solid foundation for IT career path through an accelerate 12-month development",
+                        "icon": "fa-graduation-cap"
+                    },
+                    {
+                        "name": "Library",
+                        "value": "Acquire strong technical and soft skills",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "name": "Healthcare Plan",
+                        "value": "Work in cutting edge technology projects",
+                        "icon": "fa-rss"
+                    },
+                    {
+                        "name": "Vouchers",
+                        "value": "Buddy with friendly colleagues and learn from senior experts",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "name": "Training",
+                        "value": "Develop a strong sense of business insight",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "name": "Awards",
+                        "value": "Development journey come along with growing benefits",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Receive attractive benefits (meal allowance, 13th month salary, performance bonus, healthcare insurance,...)",
+                        "icon": "fa-angellist"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "Web/ Mobile",
+                    "Mobile",
+                    "Product",
+                    "IT Staff"
+                ],
+                "industries_arr": [
+                    "Dịch vụ doanh nghiệp",
+                    "Nhân sự",
+                    "Triển Khai Phần Mềm"
+                ],
+                "industries_str": "Dịch vụ doanh nghiệp, Nhân sự, Triển Khai Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Swift, Android, iOS, Java, Mobile",
+            "skills_arr": [
+                "Swift",
+                "Android",
+                "iOS",
+                "Java",
+                "Mobile"
+            ],
+            "skills_ids": [
+                5,
+                8,
+                9,
+                21,
+                207
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Fresher",
+            "job_levels_arr": [
+                "Fresher"
+            ],
+            "job_levels_ids": [
+                1617
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 292,
+                        "ward": {
+                            "id": "26953",
+                            "value": "Phường 21"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "765",
+                            "value": "Quận Bình Thạnh"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/mobile-developer-ios-android-all-levels-topdev-s-client-2033159",
+            "job_url": "",
+            "slug": "mobile-developer-ios-android-all-levels-topdev-s-client",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [
+                "FresherPage"
+            ],
+            "packages": [
+                "basic"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "25-04-2024",
+                "datetime": "17:29:34 25-04-2024",
+                "since": "1 month ago"
+            },
+            "refreshed": {
+                "date": "09-06-2024",
+                "datetime": "02:00:06 09-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Thành thạo ngôn ngữ lập trình JAVA hoặc SWIFT.",
+                        "Có kiến thức về OOP và Design Patterns.",
+                        "Hiểu về kiến trúc: MVVM, MVC, MVP…",
+                        "Biết sử dụng ít nhất một trong số các công cụ quản lý source code GIT, Bitbucket.",
+                        "Có kinh nghiệm làm việc với JIRA hoặc các công cụ quản lý task.",
+                        "Có sản phẩm được public trên Store là lợi thế."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033262,
+            "title": "Software Developer at Public Bank Securities Vietnam Company Limited",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are seeking a talented and experienced Software Engineer to join our growing IT department at Public Bank Securities of Viet Nam. In this role, you will play a key part in developing, maintaining, and enhancing our critical software systems used for our securities business. You will work collaboratively with a team of engineers, analysts, and business partners to ensure the smooth operation and security of our financial technology infrastructure.</span></p>",
+            "benefits": [],
+            "owned_id": 93687,
+            "company": {
+                "id": 93687,
+                "display_name": "Public Bank Vietnam (PBVN)",
+                "image_logo": "https://assets.topdev.vn/images/2023/06/01/TopDev-Screenshot-2023-06-01-160749-1685610482.png",
+                "slug": "public-bank-vietnam-pbvn",
+                "detail_url": "https://topdev.vn/companies/public-bank-vietnam-pbvn-93687",
+                "tagline": "PBVN là một tổ chức tín dụng hoạt động an toàn, hiệu quả và uy tín hàng đầu Việt Nam",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "79",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Hội sở chính: Số 2 Ngô Quyền, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Thành phố Hà Nội",
+                        "180 Bàu Cát, Phường 14, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        " Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Hoàn Kiếm, Hà Nội - Quận Tân Bình, Hồ Chí Minh - Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 149113,
+                            "ward": {
+                                "id": "00058",
+                                "value": "Phường Lý Thái Tổ"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "002",
+                                "value": "Quận Hoàn Kiếm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hội sở chính: Số 2 Ngô Quyền, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hội sở chính: Số 2 Ngô Quyền"
+                        },
+                        {
+                            "id": 154481,
+                            "ward": {
+                                "id": "27004",
+                                "value": "Phường 14"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "180 Bàu Cát, Phường 14, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "180 Bàu Cát"
+                        },
+                        {
+                            "id": 201683,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": " Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": null
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hồ Chí Minh, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/06/19/TopDev-Screenshot-2023-06-19-143759-1687160325.png",
+                "image_galleries": [
+                    {
+                        "id": 416944,
+                        "url": "https://assets.topdev.vn/images/2023/05/08/TopDev-News_20230118161046925-1683510529.jpg",
+                        "path": "/images/2023/05/08/TopDev-News_20230118161046925-1683510529.jpg",
+                        "name": "News_20230118161046925.jpg",
+                        "uploaded": {
+                            "date": "08-05-2023",
+                            "datetime": "2023-05-08 08:48:49",
+                            "since": "1 year ago",
+                            "timestamp": 1683510529
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 416945,
+                        "url": "https://assets.topdev.vn/images/2023/05/08/TopDev-a29cef3471d9bbe78cbec094f599adb2-1683510529.jpg",
+                        "path": "/images/2023/05/08/TopDev-a29cef3471d9bbe78cbec094f599adb2-1683510529.jpg",
+                        "name": "a29cef3471d9bbe78cbec094f599adb2.jpg",
+                        "uploaded": {
+                            "date": "08-05-2023",
+                            "datetime": "2023-05-08 08:48:50",
+                            "since": "1 year ago",
+                            "timestamp": 1683510530
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 435079,
+                        "url": "https://assets.topdev.vn/images/2023/06/19/TopDev-Screenshot-2023-06-19-143816-1687160325.png",
+                        "path": "/images/2023/06/19/TopDev-Screenshot-2023-06-19-143816-1687160325.png",
+                        "name": "Screenshot 2023-06-19 143816.png",
+                        "uploaded": {
+                            "date": "19-06-2023",
+                            "datetime": "2023-06-19 14:38:46",
+                            "since": "11 months ago",
+                            "timestamp": 1687160326
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 435080,
+                        "url": "https://assets.topdev.vn/images/2023/06/19/TopDev-74d182216315bebcfe365094f488471b-1687160326.png",
+                        "path": "/images/2023/06/19/TopDev-74d182216315bebcfe365094f488471b-1687160326.png",
+                        "name": "74d182216315bebcfe365094f488471b.png",
+                        "uploaded": {
+                            "date": "19-06-2023",
+                            "datetime": "2023-06-19 14:38:46",
+                            "since": "11 months ago",
+                            "timestamp": 1687160326
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 549056,
+                        "url": "https://assets.topdev.vn/images/2024/02/23/TopDev-5cIoXY0SSBb8ur18-1708687339.jpg",
+                        "path": "/images/2024/02/23/TopDev-5cIoXY0SSBb8ur18-1708687339.jpg",
+                        "name": "quEFvFtT6GQMMWGdh6peSUNdDObdk4JAfodulxKi.jpg",
+                        "uploaded": {
+                            "date": "23-02-2024",
+                            "datetime": "2024-02-23 18:22:19",
+                            "since": "3 months ago",
+                            "timestamp": 1708687339
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 549057,
+                        "url": "https://assets.topdev.vn/images/2024/02/23/TopDev-OHHDGTNXq6ifqb8L-1708687339.jpg",
+                        "path": "/images/2024/02/23/TopDev-OHHDGTNXq6ifqb8L-1708687339.jpg",
+                        "name": "T9cpO34YQZtd6Wb4UpvUfaPN80eYpGJlD6m3B9gm.jpg",
+                        "uploaded": {
+                            "date": "23-02-2024",
+                            "datetime": "2024-02-23 18:22:19",
+                            "since": "3 months ago",
+                            "timestamp": 1708687339
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Outstanding career development opportunities",
+                        "icon": "fa-check-square-o"
+                    },
+                    {
+                        "value": "High performance & dynamic working environment",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Great employment benefits",
+                        "icon": "fa-clone"
+                    },
+                    {
+                        "value": "Negotiate",
+                        "icon": "fa-crosshairs"
+                    },
+                    {
+                        "value": "Insurance Coverage",
+                        "icon": "fa-chain-broken"
+                    },
+                    {
+                        "value": "Allowance & additional salary payment",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Salary Review Annually",
+                        "icon": "fa-bar-chart-o"
+                    },
+                    {
+                        "value": "18 days full paid leave per year",
+                        "icon": "fa-edit"
+                    },
+                    {
+                        "value": "Training & Development",
+                        "icon": "fa-firefox"
+                    },
+                    {
+                        "value": "Annually Health Checkup",
+                        "icon": "fa-stethoscope"
+                    }
+                ],
+                "skills_arr": [
+                    "JavaScript",
+                    "C#",
+                    "SQL",
+                    ".NET",
+                    "Java Spring",
+                    "ASP.NET MVC"
+                ],
+                "industries_arr": [
+                    "Ngân Hàng",
+                    "Tài Chính"
+                ],
+                "industries_str": "Ngân Hàng, Tài Chính",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Python, Oracle Rac/ SQL Server",
+            "skills_arr": [
+                "Java",
+                "Python",
+                "Oracle Rac/ SQL Server"
+            ],
+            "skills_ids": [
+                21,
+                34,
+                964
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng phòng, Trưởng Nhóm, Senior",
+            "job_levels_arr": [
+                "Trưởng phòng",
+                "Trưởng Nhóm",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                1620,
+                7276,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Hội sở chính: Số 2 Ngô Quyền, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Hoàn Kiếm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 149113,
+                        "ward": {
+                            "id": "00058",
+                            "value": "Phường Lý Thái Tổ"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "002",
+                            "value": "Quận Hoàn Kiếm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Hội sở chính: Số 2 Ngô Quyền, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hội sở chính: Số 2 Ngô Quyền"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/software-developer-at-public-bank-securities-vietnam-company-limited-public-bank-vietnam-pbvn-2033262",
+            "job_url": "",
+            "slug": "software-developer-at-public-bank-securities-vietnam-company-limited-public-bank-vietnam-pbvn",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "0",
+                "max": "2***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "Up to 2*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "15-05-2024",
+                "datetime": "00:00:00 15-05-2024",
+                "since": "1 month ago"
+            },
+            "refreshed": {
+                "date": "09-06-2024",
+                "datetime": "02:00:06 09-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent experience);",
+                        "Minimum of 3 years of experience working as a software engineer or programmer in a financial services or related industry (a plus);",
+                        "Strong proficiency in at least one high-level programming language (i.e. Java, Python, C#);",
+                        "Experience with object-oriented programming principles and design patterns;",
+                        "Experience with relational databases (e.g., SQL Server, Oracle) and database management systems;",
+                        "Experience with version control systems (e.g., Git);",
+                        "Excellent analytical and problem-solving skills;",
+                        "Strong communication, collaboration, and interpersonal skills;",
+                        "Ability to work independently and manage multiple tasks effectively;",
+                        "A passion for technology and a commitment to continuous learning;",
+                        "A strong understanding of financial markets and regulations is highly desirable.",
+                        "Fluency in financial terms and concepts would be a significant advantage.",
+                        "The ability to stay current with emerging technologies in the financial service technology or securities is preferred."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033023,
+            "title": "Hanoi-Senior Salesforce Developer_TS040402SrSF",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-500px",
+                    "name": null,
+                    "value": "•\tThử việc 2 tháng với 100% lương"
+                },
+                {
+                    "icon": "fa-500px",
+                    "name": null,
+                    "value": "•\tĐóng bảo hiểm full lương sau thời gian thử việc"
+                },
+                {
+                    "icon": "fa-500px",
+                    "name": null,
+                    "value": "•\tTham gia gói bảo hiểm sức khảo PVI, khám sức khỏe định kỳ hàng năm"
+                },
+                {
+                    "icon": "fa-500px",
+                    "name": null,
+                    "value": "•\tLương tháng 13, thưởng sinh nhật, thưởng năm mới, quà Trung thu, quà Giáng sinh, quà 8/3, quà 20/10,..."
+                },
+                {
+                    "icon": "fa-500px",
+                    "name": null,
+                    "value": "•\tĐược đào tạo về IT, tài trợ chi phí thi lấy chứng chỉ nghiệp vụ"
+                },
+                {
+                    "icon": "fa-500px",
+                    "name": null,
+                    "value": "•\tChế độ đánh giá performance, tăng lương định kỳ"
+                }
+            ],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Salesforce",
+            "skills_arr": [
+                "Salesforce"
+            ],
+            "skills_ids": [
+                1477
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Hà Nội, Thành phố Hà Nội"
+                ],
+                "sort_addresses": " Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 144509,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Hà Nội, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hà Nội"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hanoi-senior-salesforce-developer-ts040402srsf-talent-success-2033023",
+            "job_url": "",
+            "slug": "hanoi-senior-salesforce-developer-ts040402srsf-talent-success",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "04-04-2024",
+                "datetime": "00:00:00 04-04-2024",
+                "since": "2 months ago"
+            },
+            "refreshed": {
+                "date": "08-06-2024",
+                "datetime": "02:00:06 08-06-2024",
+                "since": "1 week ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Có kinh nghiệm, hiểu biết sâu về lĩnh vực và nền tảng Salesforce (Ưu tiên ứng viên có chứng chỉ Salesforce Developer hoặc Salesforce Administrator);",
+                        "+ 5 năm kinh nghiệm làm các dự án về Salesforce;",
+                        "Có kinh nghiệm thực hiện dự án sử dụng Apex và Visualforce (Apex, Aura, LWC, Visualforce);",
+                        "Có hiểu biết về Front-end với những ngôn ngữ lập trình như HTML, CSS, JavaScript, Jquery;",
+                        "Có hiểu biết về Lightning design system, Design patterns;",
+                        "Có kiến thức về data base như SQLServer, MySQL, MongoDB;",
+                        "Có kinh nghiệm sử dụng Lightning Component Framework;",
+                        "Có kinh nghiệm sử dụng các nền tảng quản lý dự án như Jira, Confluence;",
+                        "Có hiểu biết, nắm bắt xu hướng mới nhất về kỹ thuật cũng như các công cụ phát triển;",
+                        "Có kỹ năng quản lý team và làm việc nhóm;",
+                        "Có thể giao tiếp tiếng Anh."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Điều kiện ưu tiên:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Ứng viên có chứng chỉ Salesforce Certified Platform Developer hoặc Salesforce Certified Platform App Builder;",
+                        "Ứng viên có hiểu biết về những sản phẩn liên quan đến Salesforce như Sales Cloud, Marketing Cloud, Service Cloud, Commerce Cloud, v.v;",
+                        "Ứng viên có hiểu biết về các phương pháp phát triển như Agile và Scrum;",
+                        "Có kinh nghiệm về Salesforce Integration (REST hoặc SOAP API);",
+                        "Có kinh nghiệm thực hiện công việc dựa trên Ticket (Task based Service request);",
+                        "Có kinh nghiệm về data migration và data loading;",
+                        "Có kinh nghiệm lead team thực hiện dự án liên quan đến Salesforce."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": null,
+        "last": null,
+        "prev": "http://api.topdev.vn/td/v2/jobs/?page=59",
+        "next": null
+    },
+    "meta": {
+        "total": 785,
+        "per_page": 10,
+        "current_page": 60,
+        "last_page": 79,
+        "from": 591,
+        "to": 600
+    }
+}

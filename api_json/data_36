@@ -1,0 +1,2851 @@
+{
+    "_type": "jobs",
+    "aggregations": {
+        "categories": [],
+        "status": [
+            {
+                "key": 3,
+                "doc_count": 662
+            }
+        ]
+    },
+    "data": [
+        {
+            "id": 2033593,
+            "title": "Fullstack Engineer",
+            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">BStar Solutions is pioneering the Silicon Valley of Vietnam and Southeast Asia. Our mission is&nbsp; to solve business and technical problems. We transform clients&rsquo; business concepts through the stages of prototype, minimum viable product (MVP), and production. Our mastery of global&nbsp;software development processes and business-oriented focus allows our clients to achieve their&nbsp;business objectives.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Reports to: </span><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Project Manager</span></span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Attractive income."
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Pay your full salary in two months of probation."
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Review salary once per year."
+                },
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "12 days of annual leave."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Year-end bonus/ performance bonus based on the business performance."
+                },
+                {
+                    "icon": "fa-birthday-cake",
+                    "name": null,
+                    "value": "Birthday gift: 1.000.000 VND."
+                },
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "Social, Health and others Insurance are based on Labor Law and Health insurance PVI."
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Activities: Company Trip, Year End Party, Sport (football, badminton, running club…),  Christmas, Charity activities, …"
+                },
+                {
+                    "icon": "fa-users",
+                    "name": null,
+                    "value": "Good work environment and working in a professional, friendly, well-equipped  environment."
+                },
+                {
+                    "icon": "fa-globe",
+                    "name": null,
+                    "value": "Chances to work in a big and global team, working directly with customers."
+                }
+            ],
+            "owned_id": 85604,
+            "company": {
+                "id": 85604,
+                "display_name": "BStar Solutions",
+                "image_logo": "https://assets.topdev.vn/images/2022/09/05/TopDev-BStar-Logo-TrmAnh-1662372298.png",
+                "slug": "bstar-solutions",
+                "detail_url": "https://topdev.vn/companies/bstar-solutions-85604",
+                "tagline": "IT Service and IT Consulting",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "60 Trường Sơn, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "Yên Thế, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Tân Bình, Hồ Chí Minh - Quận Tân Bình, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 116490,
+                            "ward": {
+                                "id": "26965",
+                                "value": "Phường 02"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "60 Trường Sơn, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "60 Trường Sơn"
+                        },
+                        {
+                            "id": 202267,
+                            "ward": {
+                                "id": "26965",
+                                "value": "Phường 02"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": null,
+                            "full_address": "Yên Thế, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Yên Thế"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/05/31/TopDev-FAA4VPwkahqLq4NU-1717146816.jpg",
+                "image_galleries": [
+                    {
+                        "id": 350897,
+                        "url": "https://assets.topdev.vn/images/2022/09/05/TopDev-9d8b35bd95a60d183c768ef342db427f-1662372299.png",
+                        "path": "/images/2022/09/05/TopDev-9d8b35bd95a60d183c768ef342db427f-1662372299.png",
+                        "name": "9d8b35bd95a60d183c768ef342db427f.png",
+                        "uploaded": {
+                            "date": "05-09-2022",
+                            "datetime": "2022-09-05 17:05:00",
+                            "since": "1 year ago",
+                            "timestamp": 1662372300
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 350898,
+                        "url": "https://assets.topdev.vn/images/2022/09/05/TopDev-BStar-Image-2-1662372300.png",
+                        "path": "/images/2022/09/05/TopDev-BStar-Image-2-1662372300.png",
+                        "name": "BStar-Image-2.png",
+                        "uploaded": {
+                            "date": "05-09-2022",
+                            "datetime": "2022-09-05 17:05:00",
+                            "since": "1 year ago",
+                            "timestamp": 1662372300
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 350899,
+                        "url": "https://assets.topdev.vn/images/2022/09/05/TopDev-BStar-Image-3-1662372300.png",
+                        "path": "/images/2022/09/05/TopDev-BStar-Image-3-1662372300.png",
+                        "name": "BStar-Image-3.png",
+                        "uploaded": {
+                            "date": "05-09-2022",
+                            "datetime": "2022-09-05 17:05:00",
+                            "since": "1 year ago",
+                            "timestamp": 1662372300
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 603429,
+                        "url": "https://assets.topdev.vn/images/2024/05/31/TopDev-Pe0R4irbkHLxHqCd-1717146816.jpg",
+                        "path": "/images/2024/05/31/TopDev-Pe0R4irbkHLxHqCd-1717146816.jpg",
+                        "name": "SWMW8VSCZUElpRjkaUf8ECmQFHbVSsysnGpMgz3s.jpg",
+                        "uploaded": {
+                            "date": "31-05-2024",
+                            "datetime": "2024-05-31 16:13:36",
+                            "since": "2 weeks ago",
+                            "timestamp": 1717146816
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 603430,
+                        "url": "https://assets.topdev.vn/images/2024/05/31/TopDev-WMwBFaoJQ8scmBNz-1717146816.jpg",
+                        "path": "/images/2024/05/31/TopDev-WMwBFaoJQ8scmBNz-1717146816.jpg",
+                        "name": "fOtjnGwDo4hQpNT9AuHMtJXJQtezlmklF4V6boiI.jpg",
+                        "uploaded": {
+                            "date": "31-05-2024",
+                            "datetime": "2024-05-31 16:13:37",
+                            "since": "2 weeks ago",
+                            "timestamp": 1717146817
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Pay full salary in two months of probation.",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Review salary once per year.",
+                        "icon": "fa-opencart"
+                    },
+                    {
+                        "value": "Health insurance PVI.",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Social, Health and others Insurance base on Labor Law.",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "12 - 15 days of annual leave.",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Good work environment and working in a professional, friendly, well-equipped environment.",
+                        "icon": "fa-lightbulb-o"
+                    },
+                    {
+                        "value": "Birthday gift: 1.000.000 VND.",
+                        "icon": "fa-birthday-cake"
+                    },
+                    {
+                        "value": "Year-end bonus/ performance bonus based on the business performance.",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "value": "Chances to work in a big and global team, working directly with customers.",
+                        "icon": "fa-users"
+                    },
+                    {
+                        "value": "Company budget for team building, year-end party and sport activities (football, badminton), Christmasetc.…",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Working time: Mon - Fri | 08:30-17:30.",
+                        "icon": "fa-clock-o"
+                    },
+                    {
+                        "value": "Year-end bonus/ performance bonus based on the business performance.",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "Front-End",
+                    "Full-Stack",
+                    "ASP.NET MVC",
+                    "Oracle PL/SQL",
+                    "Process Quality Assurance"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Full-Stack, ReactJS",
+            "skills_arr": [
+                "Java",
+                "Full-Stack",
+                "ReactJS"
+            ],
+            "skills_ids": [
+                21,
+                211,
+                214
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Yên Thế, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 202267,
+                        "ward": {
+                            "id": "26965",
+                            "value": "Phường 02"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "766",
+                            "value": "Quận Tân Bình"
+                        },
+                        "postal_code": null,
+                        "full_address": "Yên Thế, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Yên Thế"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/fullstack-engineer-bstar-solutions-2033593",
+            "job_url": "",
+            "slug": "fullstack-engineer-bstar-solutions",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "19-06-2024",
+                "datetime": "00:00:00 19-06-2024",
+                "since": "1 day ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "14:02:51 19-06-2024",
+                "since": "21 hours ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Necessary Skill / Experience"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Bachelor's degree in software engineering or related field is required, ...",
+                        "At least 3 years of experience in front-end development using ReactJS.",
+                        "Having about 1 year of experienced using Java Spring Boot frameworks.",
+                        "Read/write design (function design or details design)",
+                        "Having experienced with Devops (kubernetes, docker, aws, proxySQL).",
+                        "Prefer experienced with SQL."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Preferable"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Having experienced working in a Japanese project is a plus.",
+                        "Good teamwork spirit and a willingness to understand the various roles played by fellowteam members, logical thinking."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033589,
+            "title": "HCM Hybrid - Senior Java Developer - TS061802-SrJava",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Our client is seeking a highly motivated and experienced Senior Java Developer to join their growing team. You will be responsible for designing, developing, and implementing high-performance Java applications that process large datasets. You will work collaboratively within an agile environment, contributing your expertise to solve complex technical challenges.</span></p>\r\n<p style=\"text-align: justify;\">&nbsp;</p>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary package including 13th salary & added performance bonus."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Project bonus (From 0.5 to 3 months salary)."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Hybrid working environment, onsite 2 days / week."
+                },
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "12 annual leave days and 11 public holidays."
+                },
+                {
+                    "icon": "fa-adn",
+                    "name": null,
+                    "value": "Salary will be reviewed based on performance in a timely manner and may be requested."
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Team building, company trip, etc."
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Employee insurance as prescribed by law."
+                },
+                {
+                    "icon": "fa-cog",
+                    "name": null,
+                    "value": "Opportunity to improve your English through exposure to international customers and our products."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Personal development courses, including technical and non-technical programs, are offered."
+                },
+                {
+                    "icon": "fa-gratipay",
+                    "name": null,
+                    "value": "Opportunity to gain hands-on experience in advanced technologies."
+                },
+                {
+                    "icon": "fa-coffee",
+                    "name": null,
+                    "value": "Free snacks, coffee, tea, cakes, ect..."
+                }
+            ],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Java Core, Kubernete",
+            "skills_arr": [
+                "Java",
+                "Java Core",
+                "Kubernete"
+            ],
+            "skills_ids": [
+                21,
+                1552,
+                8515
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Hồ Chí Minh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": " Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 142407,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hồ Chí Minh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hcm-hybrid-senior-java-developer-ts061802-srjava-talent-success-2033589",
+            "job_url": "",
+            "slug": "hcm-hybrid-senior-java-developer-ts061802-srjava-talent-success",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "1***",
+                "max": "2***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "1*** - 2*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "19-06-2024",
+                "datetime": "00:00:00 19-06-2024",
+                "since": "1 day ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "10:33:00 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Minimum of 5 years of hands-on experience in Java, Scala, Go, C#, or similar",
+                        "Proficient in system architecture and software development practices. Experience in large scale, micro service architectureis a plus",
+                        "Familiarity with IaC practices, including Helm and Kubernetes",
+                        "Excellent problem-solving and analytical skills with the ability to work across the entire stack",
+                        "Willingness to participate in a technical interview process conducted offline"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033590,
+            "title": "Mobile Developer (Android)",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Trustify Technology brings to the world its excellent in Software Development &amp; Testing Services as well as its cutting- edge solutions that can elevate the client product &amp; service delivery. We become the trust partner in IT outsourcing by its collaborative approaches and how the cooperative steps are being natured. Our mission is to deliver the highest quality of services to our customers, employees, and partners. When you join us, you will find:</span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">You play a key to success in our team</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Well compensation package based on performance and value creation</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Opportunities to work with talent people and deliver the best product to improve health for.</span></li>\r\n</ul>",
+            "benefits": [],
+            "owned_id": 94760,
+            "company": {
+                "id": 94760,
+                "display_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ TRUSTIFY",
+                "image_logo": "https://assets.topdev.vn/images/2024/06/19/TopDev-channels4_profile-1718764504.jpg",
+                "slug": "cong-ty-co-phan-cong-nghe-trustify",
+                "detail_url": "https://topdev.vn/companies/cong-ty-co-phan-cong-nghe-trustify-94760",
+                "tagline": "Trusted Software Engineering Solutions Provider",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "40/4 Lam Sơn, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 202859,
+                            "ward": {
+                                "id": "26965",
+                                "value": "Phường 02"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "40/4 Lam Sơn, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "40/4 Lam Sơn"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/06/19/TopDev-1706344052270---Hoang-Oanh-1718764948.jpeg",
+                "image_galleries": [
+                    {
+                        "id": 612728,
+                        "url": "https://assets.topdev.vn/images/2024/06/19/TopDev-1706344052270---Hoang-Oanh-1718764948.jpeg",
+                        "path": "/images/2024/06/19/TopDev-1706344052270---Hoang-Oanh-1718764948.jpeg",
+                        "name": "1706344052270 - Hoàng Oanh.jpeg",
+                        "uploaded": {
+                            "date": "19-06-2024",
+                            "datetime": "2024-06-19 09:42:28",
+                            "since": "37 minutes ago",
+                            "timestamp": 1718764948
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Bonus review bi-annually based on performance",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Bonus for excellent project performance",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Annually company trip & project close team outing",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Additional health care policy for employees",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Healthcare: Annual health check-up, Premium Health Insurance (Trustify Care)",
+                        "icon": "fa-hotel"
+                    },
+                    {
+                        "value": "100% salary in probation time",
+                        "icon": "fa-dollar"
+                    }
+                ],
+                "skills_arr": [
+                    "Swift",
+                    "Java",
+                    "JavaScript",
+                    "Python",
+                    ".NET",
+                    "QA/QC",
+                    "Kotlin",
+                    "Flutter"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Mobile, Kotlin",
+            "skills_arr": [
+                "Java",
+                "Mobile",
+                "Kotlin"
+            ],
+            "skills_ids": [
+                21,
+                207,
+                1461
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "40/4 Lam Sơn, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 202859,
+                        "ward": {
+                            "id": "26965",
+                            "value": "Phường 02"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "766",
+                            "value": "Quận Tân Bình"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "40/4 Lam Sơn, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "40/4 Lam Sơn"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/mobile-developer-android-cong-ty-co-phan-cong-nghe-trustify-2033590",
+            "job_url": "",
+            "slug": "mobile-developer-android-cong-ty-co-phan-cong-nghe-trustify",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "19-06-2024",
+                "datetime": "00:00:00 19-06-2024",
+                "since": "1 day ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "09:44:51 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Bachelor’s degree in Computer Science, Engineering, or related field",
+                        "At least 3 years of Android or Kotlin development",
+                        "Proficiency in Java and Kotlin programming languages",
+                        "Solid understanding of Android SDK, Android Studio, and related tools",
+                        "Experience with RESTful APIs and JSON",
+                        "Experience with MVVM, DI Koin, Kotlin coroutines, Component lifecycle",
+                        "Experience with Android Navigation component, Fragments and single Activity architecture",
+                        "Strong problem-solving skills and attention to detail",
+                        "Good English communication skill"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Working time: 9.00 AM – 6.00 PM Monday – Friday"
+                    ],
+                    "icon": null
+                }
+            ]
+        },
+        {
+            "id": 2033588,
+            "title": "Hanoi - Senior Java Developer_TS030201-BE",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Stable and long-term job"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Annual salary review and adjustment"
+                },
+                {
+                    "icon": "fa-globe",
+                    "name": null,
+                    "value": "Professional working environment (Come and enjoy our powerful machines, licensed software, workspace with partitions)"
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Flexible working hours, and no working overtime."
+                },
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "Advanced health insurance for the whole family (Let the international hospitals take care of not only your health but also your lovedones')"
+                }
+            ],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "SQL Server, Java EE, Java Spring Boot",
+            "skills_arr": [
+                "SQL Server",
+                "Java EE",
+                "Java Spring Boot"
+            ],
+            "skills_ids": [
+                99,
+                7995,
+                7964
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Hà Nội, Thành phố Hà Nội"
+                ],
+                "sort_addresses": " Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 144509,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Hà Nội, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hà Nội"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hanoi-senior-java-developer-ts030201-be-talent-success-2033588",
+            "job_url": "",
+            "slug": "hanoi-senior-java-developer-ts030201-be-talent-success",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "0",
+                "max": "1***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "Up to 1*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "19-06-2024",
+                "datetime": "00:00:00 19-06-2024",
+                "since": "1 day ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "09:06:59 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Proficiency in Java EE related back-end technologies (OpenJDK, Tomcat, Spring, Java Aspect, Google Web Toolkit)",
+                        "Familiarity with object oriented design and modern design patterns",
+                        "Experience with relational databases (SQL Server, Oracle, Maria DB), Hibernate, and SQL",
+                        "Knowledge of Javascript front-end technologies (Angular) is a plus"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033587,
+            "title": "HCM Hybrid - Senior Automation Tester - TS061802-Autotest",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Our client is seeking a highly skilled and detail-oriented Automation QC Engineer to join their team. The ideal candidate will be responsible for designing, implementing, and executing automated testing strategies to ensure the quality and reliability of our software products or systems. The role involves collaborating closely with development teams to identify potential issues, create test cases, and develop automated testing frameworks.</span></p>",
+            "benefits": [],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Automation Tester, Automation QA",
+            "skills_arr": [
+                "Java",
+                "Automation Tester",
+                "Automation QA"
+            ],
+            "skills_ids": [
+                21,
+                1470,
+                1571
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Hồ Chí Minh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": " Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 142407,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hồ Chí Minh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hcm-hybrid-senior-automation-tester-ts061802-autotest-talent-success-2033587",
+            "job_url": "",
+            "slug": "hcm-hybrid-senior-automation-tester-ts061802-autotest-talent-success",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "USD",
+                "min_estimate": 1500,
+                "max_estimate": 2000,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "19-06-2024",
+                "datetime": "00:00:00 19-06-2024",
+                "since": "1 day ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "09:06:24 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Proven experience in automation testing, test methodologies, and tools (Selenium, Appium, Cucumber,..).",
+                        "Experienced with API testing (Postman, Swagger) and data testing (SQL)",
+                        "Experienced in programming languages such as Java, JavaScript, and other scripting languages",
+                        "Effective communication skills and ability to work collaboratively in a team environment"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Benefits:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Competitive salary package including 13th salary & added performance bonus.",
+                        "Project bonus (From 0.5 to 3 months salary).",
+                        "Hybrid working environment, onsite 2 days / week.",
+                        "12 annual leave days and 11 public holidays.",
+                        "Salary will be reviewed based on performance in a timely manner and may be requested.",
+                        "Team building, company trip, etc.",
+                        "Employee insurance as prescribed by law.",
+                        "Opportunity to improve your English through exposure to international customers and our products.",
+                        "Personal development courses, including technical and non-technical programs, are offered.",
+                        "Opportunity to gain hands-on experience in advanced technologies.",
+                        "Free snacks, coffee, tea, cakes, ect..."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033586,
+            "title": "HCM/Hybrid - Senior Project Manager (Fintech)_TS061802-PM",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary package including 13th salary & added performance bonus"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Project bonus (From 0.5 to 3 months salary)"
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Hybrid working environment, onsite 2 days / week."
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Salary will be reviewed based on performance in a timely manner and may be requested."
+                },
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "12 annual leave days and 11 public holidays."
+                },
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "Employee insurance as prescribed by law."
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Team building, company trip, etc."
+                },
+                {
+                    "icon": "fa-globe",
+                    "name": null,
+                    "value": "Opportunity to improve your English through exposure to international customers and our products."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Personal development courses, including technical and non-technical programs, are offered."
+                },
+                {
+                    "icon": "fa-pie-chart",
+                    "name": null,
+                    "value": "Opportunity to gain hands-on experience in advanced technologies."
+                },
+                {
+                    "icon": "fa-coffee",
+                    "name": null,
+                    "value": "Free snacks, coffee, tea, cakes, ect..."
+                }
+            ],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Project Manager, Agile & Scrum",
+            "skills_arr": [
+                "Project Manager",
+                "Agile & Scrum"
+            ],
+            "skills_ids": [
+                32,
+                391
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Trưởng phòng",
+            "job_levels_arr": [
+                "Trưởng phòng"
+            ],
+            "job_levels_ids": [
+                1620
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Hồ Chí Minh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": " Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 142407,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hồ Chí Minh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hcm-hybrid-senior-project-manager-fintech-ts061802-pm-talent-success-2033586",
+            "job_url": "",
+            "slug": "hcm-hybrid-senior-project-manager-fintech-ts061802-pm-talent-success",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "0",
+                "max": "2***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "Up to 2*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "19-06-2024",
+                "datetime": "00:00:00 19-06-2024",
+                "since": "1 day ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "09:02:48 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Bachelor’s degree in Business, Information Technology, or a related field. -  PMP certification is a plus.",
+                        "Proven experience as a Project Manager, preferably in the fintech or technology sector.",
+                        "Exceptional organizational, leadership, and communication skills.",
+                        "Proficiency with Agile/Scrum methodologies.",
+                        "Proficiency with project management tools (e.g., Azure DevOps, Trello, Jira).",
+                        "Understanding of fintech products and services is a big plus."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033585,
+            "title": "HCM/Hybrid - Senior Golang Developer_TS061802-Golang",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary package including 13th salary & added performance bonus."
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Project bonus (From 0.5 to 3 months salary)."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Hybrid working environment, onsite 2 days / week."
+                },
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "12 annual leave days and 11 public holidays."
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Salary will be reviewed based on performance in a timely manner and may be requested."
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Team building, company trip, etc."
+                },
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "Employee insurance as prescribed by law."
+                },
+                {
+                    "icon": "fa-globe",
+                    "name": null,
+                    "value": "Opportunity to improve your English through exposure to international customers and our products."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Personal development courses, including technical and non-technical programs, are offered."
+                },
+                {
+                    "icon": "fa-pie-chart",
+                    "name": null,
+                    "value": "Opportunity to gain hands-on experience in advanced technologies."
+                },
+                {
+                    "icon": "fa-coffee",
+                    "name": null,
+                    "value": "Free snacks, coffee, tea, cakes, ect..."
+                }
+            ],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "MongoDB, Golang, Postgre",
+            "skills_arr": [
+                "MongoDB",
+                "Golang",
+                "Postgre"
+            ],
+            "skills_ids": [
+                90,
+                203,
+                8625
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Hồ Chí Minh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": " Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 142407,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hồ Chí Minh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hcm-hybrid-senior-golang-developer-ts061802-golang-talent-success-2033585",
+            "job_url": "",
+            "slug": "hcm-hybrid-senior-golang-developer-ts061802-golang-talent-success",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "0",
+                "max": "2***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "Up to 2*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "19-06-2024",
+                "datetime": "00:00:00 19-06-2024",
+                "since": "1 day ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "08:56:58 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "5+ years of experience in software development with a strong understanding of Go programming language, paradigms,constructs, and idioms",
+                        "Experience with two or more of the following data systems (not limited to): Postgres, MongoDB, Elasticsearch, Redis, Kafka,Cassandra",
+                        "Experience with Docker and Kubernetes",
+                        "Familiarity with Microservices and event-driven architecture",
+                        "Possessing excellent problem-solving and analytical skills coupled with strong communication and collaboration abilities",
+                        "Proven ability to work independently, manage priorities effectively, and make sound technical decisions"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033391,
+            "title": "HCM-Senior QA/Tester_TS052902-QA",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-laptop",
+                    "name": null,
+                    "value": "Equipment provided"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary, 13th-month bonus plus monthly, quarterly, and per-project bonus."
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Health insurance covered."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Spacious office space, and convenient transportation in the center."
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Casual and comfortable work clothes."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Flexible working time: 8 hours per day. 5 days/week"
+                },
+                {
+                    "icon": "fa-align-center",
+                    "name": null,
+                    "value": "Other regimes, according to Vietnam's regulations/laws"
+                }
+            ],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "MS SQL, Manual Test",
+            "skills_arr": [
+                "MS SQL",
+                "Manual Test"
+            ],
+            "skills_ids": [
+                79,
+                8379
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Hồ Chí Minh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": " Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 142407,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hồ Chí Minh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hcm-senior-qa-tester-ts052902-qa-talent-success-2033391",
+            "job_url": "",
+            "slug": "hcm-senior-qa-tester-ts052902-qa-talent-success",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-05-2024",
+                "datetime": "00:00:00 30-05-2024",
+                "since": "3 weeks ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "02:00:07 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "With 5+ years of relevant QA technical experience. \nExperience in testing web applications and APIs (both Postman and Swagger). \nAbility to multitask and handle uncertainty, evolving requirements, and time pressures (possessing self-planning skills). \nExperience with white box test techniques and black box test techniques. \nAdaptable and embrace change, finding innovative solutions to problems. \nSelf-motivated and passionate about delivering high-quality software. \nPossess an appreciation for manual testing \nDemonstrate immense attention to detail. \nExcel at understanding complex business concepts. \nExhibit a willingness to learn and self-improve (holding an ISTQB certificate is a plus). \nSolid understanding of agile development."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033392,
+            "title": "HCM - ReactJS Developer_TS052902-FE",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-laptop",
+                    "name": null,
+                    "value": "Equipment provided."
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary, 13th-month bonus plus monthly, quarterly, and per-project bonus."
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Health insurance covered."
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Spacious office space, and convenient transportation in the center."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Casual and comfortable work clothes."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Flexible working time: 8 hours per day. 5 days/week"
+                },
+                {
+                    "icon": "fa-align-center",
+                    "name": null,
+                    "value": "Other regimes, according to Vietnam's regulations/laws"
+                }
+            ],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "JavaScript, HTML & CSS, React JS",
+            "skills_arr": [
+                "JavaScript",
+                "HTML & CSS",
+                "React JS"
+            ],
+            "skills_ids": [
+                22,
+                353,
+                8354
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Hồ Chí Minh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": " Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 142407,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hồ Chí Minh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hcm-reactjs-developer-ts052902-fe-talent-success-2033392",
+            "job_url": "",
+            "slug": "hcm-reactjs-developer-ts052902-fe-talent-success",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-05-2024",
+                "datetime": "00:00:00 30-05-2024",
+                "since": "3 weeks ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "02:00:07 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Solid knowledge of web technologies (HTML, CSS, and JavaScript) and frameworks in building responsive design and cross-browser compatibility",
+                        "Solid understanding of JavaScript (ES6+)",
+                        "Solid knowledge of ReactJS (4+ years experience), and similar technologies",
+                        "Hands-on experience with popular JavaScript tools, frameworks, and design principles, and up-to-date with the changing JavaScript ecosystem landscape",
+                        "Experience in analyzing UI performance metrics and optimizing the implementation",
+                        "Ability to perform and influence code reviews as well as technical design meetings",
+                        "Thorough understanding of Software Development Lifecycle and methodologies",
+                        "Have worked with real-time data like Firebase or web-socket",
+                        "Have experience in security and preventing attack on websites"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033393,
+            "title": "HCM - Backend Developer (Min 2+ Golang)_TS052902-BE",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-laptop",
+                    "name": null,
+                    "value": "Equipment provided."
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary, 13th-month bonus plus monthly, quarterly, and per-project bonus."
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Health insurance covered."
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Spacious office space, and convenient transportation in the center."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Casual and comfortable work clothes."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Flexible working time: 8 hours per day. 5 days/week"
+                },
+                {
+                    "icon": "fa-align-center",
+                    "name": null,
+                    "value": "Other regimes, according to Vietnam's regulations/laws"
+                }
+            ],
+            "owned_id": 92937,
+            "company": {
+                "id": 92937,
+                "display_name": "Talent Success",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/21/TopDev-logoQjyw0fHIO2WnLeDsxyGfYomv5J0yPJcN-1650530733.png",
+                "slug": "talent-success",
+                "detail_url": "https://topdev.vn/companies/talent-success-92937",
+                "tagline": "Talent Success's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "Hà Nội, Thành phố Hà Nội",
+                        "Đà Nẵng, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Hồ Chí Minh - Hà Nội - Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 142407,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hồ Chí Minh"
+                        },
+                        {
+                            "id": 144509,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội"
+                        },
+                        {
+                            "id": 151294,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Đà Nẵng, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Đà Nẵng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Đà Nẵng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Good Offer",
+                        "icon": "fa-500px"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Ruby on Rails",
+                    "Python",
+                    ".NET",
+                    "Golang",
+                    "Mobile"
+                ],
+                "industries_arr": [
+                    "Human Resource"
+                ],
+                "industries_str": "Human Resource",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Python, Golang",
+            "skills_arr": [
+                "Java",
+                "Python",
+                "Golang"
+            ],
+            "skills_ids": [
+                21,
+                34,
+                203
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Hồ Chí Minh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": " Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 142407,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hồ Chí Minh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/hcm-backend-developer-min-2-golang-ts052902-be-talent-success-2033393",
+            "job_url": "",
+            "slug": "hcm-backend-developer-min-2-golang-ts052902-be-talent-success",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": null
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-05-2024",
+                "datetime": "00:00:00 30-05-2024",
+                "since": "3 weeks ago"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "02:00:07 19-06-2024",
+                "since": "1 day ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "1. Bachelor’s degree in Engineering, Computer Science or any related field"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "2. Domain Expertise:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "A Minimum of 5 years of experience in software development",
+                        "Approximately 2 years of experience in the logistic domain, with a focus on developing logistic/inventory products."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "3. Technical Skills: "
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Strong command of backend technologies, particularly with Go (Minimum 2 years of experience).",
+                        "Familiarity with cloud platforms, (preferably IBM cloud)",
+                        "Expertise in designing and implementing microservices architecture",
+                        "Strong experience with databases, demonstrating a working knowledge in RDS and NoSQL databases. Proficient in database design, optimization, and effective management. Experience with database systems (Postgres, MongoDB)",
+                        "Experienced with Docker, Kubernetes",
+                        "Understand REST API & how it work",
+                        "Experienced using message queue Kafka, RabbitMQ, etc. is highly welcome.",
+                        "Experience with Unit Test (using Testify)."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "4. Collaboration:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Excellent collaboration and communication skills, fostering a culture of innovation and teamwork.",
+                        "Familiar with Agile"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "5. Problem-Solving:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Ability to analyze complex technical problems and provide innovative solutions"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": null,
+        "last": null,
+        "prev": "http://api.topdev.vn/td/v2/jobs/?page=35",
+        "next": null
+    },
+    "meta": {
+        "total": 785,
+        "per_page": 10,
+        "current_page": 36,
+        "last_page": 79,
+        "from": 351,
+        "to": 360
+    }
+}

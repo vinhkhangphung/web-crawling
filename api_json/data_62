@@ -1,0 +1,483 @@
+{
+    "_type": "jobs",
+    "aggregations": {
+        "categories": [],
+        "status": [
+            {
+                "key": 3,
+                "doc_count": 662
+            }
+        ]
+    },
+    "data": [
+        {
+            "id": 2033598,
+            "title": "Chuyên Viên Phát Triển Phần Mềm (Java Backend)",
+            "content": "",
+            "benefits": [],
+            "owned_id": 64442,
+            "company": {
+                "id": 64442,
+                "display_name": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN VNDIRECT",
+                "image_logo": "https://assets.topdev.vn/images/2021/07/16/TopDev-LogoVNDIRECT-tmphmminh-1626399835.png",
+                "slug": "cong-ty-co-phan-chung-khoan-vndirect",
+                "detail_url": "https://topdev.vn/companies/cong-ty-co-phan-chung-khoan-vndirect-64442",
+                "tagline": "",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Thanh Xuân, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 22103,
+                            "ward": {
+                                "id": "00343",
+                                "value": "Phường Nhân Chính"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "009",
+                                "value": "Quận Thanh Xuân"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2021/07/16/TopDev-IMG7132-tmphmminh-1626399836.jpg",
+                "image_galleries": [
+                    {
+                        "id": 300152,
+                        "url": "https://assets.topdev.vn/images/2021/07/16/TopDev-IMG7100-tmphmminh-1626399836.jpg",
+                        "path": "/images/2021/07/16/TopDev-IMG7100-tmphmminh-1626399836.jpg",
+                        "name": "IMG_7100 - tâm phạm minh.jpg",
+                        "uploaded": {
+                            "date": "16-07-2021",
+                            "datetime": "2021-07-16 08:43:57",
+                            "since": "2 years ago",
+                            "timestamp": 1626399837
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Môi trường làm nghề tài chính chuyên nghiệp",
+                        "icon": "fa-balance-scale"
+                    },
+                    {
+                        "value": "Làm việc với tinh thần làm chủ, sáng tạo và thách thức",
+                        "icon": "fa-anchor"
+                    },
+                    {
+                        "value": "Thu nhập xứng đáng theo năng lực và giá trị đóng góp",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Nhận lại phần thu nhập đã khấu trừ nếu đạt thử việc (Thời gian thử việc 2 tháng, hưởng 85% lương); xem xét thay đổi thu nhập hàng năm",
+                        "icon": "fa-bell"
+                    },
+                    {
+                        "value": "Tham gia BHXH, BHYT, BHTN theo đúng quy định luật lao động",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Các bảo hiểm sức khỏe và bảo hiểm tai nạn 24/24",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "Không gian làm việc mở với trang thiết bị hiện đại",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Các hoạt động văn hóa, thiện nguyện phong phú và sôi nổi",
+                        "icon": "fa-heart"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "Mobile",
+                    "DevOps",
+                    "ReactJS",
+                    "React Native"
+                ],
+                "industries_arr": [
+                    "Tài Chính",
+                    "Chứng khoán"
+                ],
+                "industries_str": "Tài Chính, Chứng khoán",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Restful Api, Java Spring Boot",
+            "skills_arr": [
+                "Java",
+                "Restful Api",
+                "Java Spring Boot"
+            ],
+            "skills_ids": [
+                21,
+                8706,
+                7964
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Thanh Xuân, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 22103,
+                        "ward": {
+                            "id": "00343",
+                            "value": "Phường Nhân Chính"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "009",
+                            "value": "Quận Thanh Xuân"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/chuyen-vien-phat-trien-phan-mem-java-backend-cong-ty-co-phan-chung-khoan-vndirect-2033598",
+            "job_url": "",
+            "slug": "chuyen-vien-phat-trien-phan-mem-java-backend-cong-ty-co-phan-chung-khoan-vndirect",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "2*******",
+                "max": "4*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "2******* - 4******* VND"
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "20-06-2024",
+                "datetime": "00:00:00 20-06-2024",
+                "since": "11 hours ago"
+            },
+            "refreshed": {
+                "date": "20-06-2024",
+                "datetime": "09:24:15 20-06-2024",
+                "since": "2 hours ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Có tối thiểu từ 2 năm kinh nghiệm phát triển backend sử dụng ngôn ngữ Java.",
+                        "Cần phải có hiểu biết vững chắc về các nguyên tắc cơ bản của JDK 8+, Spring boot 2.x+, Spring framework 5+.",
+                        "Yêu cầu kiến thức và kỹ năng: API RESTful, Microservice architecture, Distributed transaction, Code management (GitHub/JIRA….)",
+                        "Có kinh nghiệm làm việc với các hệ quản trị dữ liệu quan hệ như MySQL/PostgreSQL và Search Engine như Solr/ElasticSearch…",
+                        "Có kinh nghiệm viết Unit test, Integration test.",
+                        "Ưu tiên có kinh nghiệm: Spring Cloud, Spring Security, Redis, Kafka, CICD …",
+                        "Có kinh nghiệm triển khai, phát triển phần mềm bằng Agile/ Scrum.",
+                        "Có khả năng phân tích, sắp xếp và triển khai công việc theo thứ tự ưu tiên.",
+                        "Có kỹ năng giao tiếp và làm việc nhóm tốt.",
+                        "Có đam mê và định hướng lâu dài với nghề lập trình"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033599,
+            "title": "Chuyên Viên Kiểm Thử Phần Mềm (Tester)",
+            "content": "",
+            "benefits": [],
+            "owned_id": 64442,
+            "company": {
+                "id": 64442,
+                "display_name": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN VNDIRECT",
+                "image_logo": "https://assets.topdev.vn/images/2021/07/16/TopDev-LogoVNDIRECT-tmphmminh-1626399835.png",
+                "slug": "cong-ty-co-phan-chung-khoan-vndirect",
+                "detail_url": "https://topdev.vn/companies/cong-ty-co-phan-chung-khoan-vndirect-64442",
+                "tagline": "",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Thanh Xuân, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 22103,
+                            "ward": {
+                                "id": "00343",
+                                "value": "Phường Nhân Chính"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "009",
+                                "value": "Quận Thanh Xuân"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2021/07/16/TopDev-IMG7132-tmphmminh-1626399836.jpg",
+                "image_galleries": [
+                    {
+                        "id": 300152,
+                        "url": "https://assets.topdev.vn/images/2021/07/16/TopDev-IMG7100-tmphmminh-1626399836.jpg",
+                        "path": "/images/2021/07/16/TopDev-IMG7100-tmphmminh-1626399836.jpg",
+                        "name": "IMG_7100 - tâm phạm minh.jpg",
+                        "uploaded": {
+                            "date": "16-07-2021",
+                            "datetime": "2021-07-16 08:43:57",
+                            "since": "2 years ago",
+                            "timestamp": 1626399837
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Môi trường làm nghề tài chính chuyên nghiệp",
+                        "icon": "fa-balance-scale"
+                    },
+                    {
+                        "value": "Làm việc với tinh thần làm chủ, sáng tạo và thách thức",
+                        "icon": "fa-anchor"
+                    },
+                    {
+                        "value": "Thu nhập xứng đáng theo năng lực và giá trị đóng góp",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Nhận lại phần thu nhập đã khấu trừ nếu đạt thử việc (Thời gian thử việc 2 tháng, hưởng 85% lương); xem xét thay đổi thu nhập hàng năm",
+                        "icon": "fa-bell"
+                    },
+                    {
+                        "value": "Tham gia BHXH, BHYT, BHTN theo đúng quy định luật lao động",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Các bảo hiểm sức khỏe và bảo hiểm tai nạn 24/24",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "Không gian làm việc mở với trang thiết bị hiện đại",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Các hoạt động văn hóa, thiện nguyện phong phú và sôi nổi",
+                        "icon": "fa-heart"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "Mobile",
+                    "DevOps",
+                    "ReactJS",
+                    "React Native"
+                ],
+                "industries_arr": [
+                    "Tài Chính",
+                    "Chứng khoán"
+                ],
+                "industries_str": "Tài Chính, Chứng khoán",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Tester, Automation Tester, Manual Test",
+            "skills_arr": [
+                "Tester",
+                "Automation Tester",
+                "Manual Test"
+            ],
+            "skills_ids": [
+                78,
+                1470,
+                8379
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Thanh Xuân, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 22103,
+                        "ward": {
+                            "id": "00343",
+                            "value": "Phường Nhân Chính"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "009",
+                            "value": "Quận Thanh Xuân"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/detail-jobs/chuyen-vien-kiem-thu-phan-mem-tester-cong-ty-co-phan-chung-khoan-vndirect-2033599",
+            "job_url": "",
+            "slug": "chuyen-vien-kiem-thu-phan-mem-tester-cong-ty-co-phan-chung-khoan-vndirect",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "2*******",
+                "max": "3*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "2******* - 3******* VND"
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "20-06-2024",
+                "datetime": "00:00:00 20-06-2024",
+                "since": "11 hours ago"
+            },
+            "refreshed": {
+                "date": "20-06-2024",
+                "datetime": "09:20:23 20-06-2024",
+                "since": "2 hours ago"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp cao đẳng, đại học chuyên ngành Công nghệ thông tin, điện tử viễn thông hoặc các chuyên ngành khác có liên quan",
+                        "Có tối thiểu từ 3 năm kinh nghiệm về kiểm thử phần mềm, ưu tiên có kinh nghiệm làm việc tại các công ty tài chính, chứng khoán, bảo hiểm",
+                        "Có hiểu biết về các phương pháp và kỹ thuật kiểm thử khác nhau",
+                        "Là người cẩn thẩn, tỉ mỉ, chú trọng đến chi tiết",
+                        "Có khả năng phân tích và giải quyết vấn đề",
+                        "Có kinh nghiệm làm việc trong môi trường phát triển phần mềm theo mô hình Agile",
+                        "Có khả năng làm việc độc lập và làm việc nhóm"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": null,
+        "last": null,
+        "prev": "http://api.topdev.vn/td/v2/jobs/?page=61",
+        "next": null
+    },
+    "meta": {
+        "total": 785,
+        "per_page": 10,
+        "current_page": 62,
+        "last_page": 79,
+        "from": 611,
+        "to": 612
+    }
+}
